@@ -1,0 +1,33 @@
+# Dr Ganesh Sivasankara
+
+> Consultant Anaesthetist, and lately a builder of small teaching tools with AI.
+
+Consultant Anaesthetist and Section Head of Paediatric Anaesthesia, King Faisal Specialist Hospital and Research Centre, Riyadh.
+
+I have worked as an anaesthetist in the UK and Saudi Arabia for more than twenty-five years, mostly in paediatric and obstetric anaesthesia, and I write and teach about the evidence behind what we do every day in the operating theatre.
+
+## Pages
+
+- [Home](https://ganeshsivasankara.com/): who I am and who this site is for
+- [My work](https://ganeshsivasankara.com/work.html): the free teaching apps and the writing
+- [About](https://ganeshsivasankara.com/about.html): clinical record, roles held, qualifications, teaching and what I am doing now
+- [Write to me](https://ganeshsivasankara.com/contact.html): how to reach me, by email at ganesh@ganeshsivasankara.com
+
+## Teaching apps
+
+- [Reading the EEG](https://gundoc9.github.io/reading-the-eeg/): a course on the anaesthetic EEG for anaesthesia residents, built around a live trace and spectrogram.
+- [Reading the clot](https://gundoc9.github.io/reading-the-clot/): the TEG and ROTEM trace for anaesthetists, the normal trace beside each defect with what to give for it, plus drills and a plot of your own numbers.
+- [Cannulation geometry](https://gundoc9.github.io/cannulation-geometry/): how insertion angle and catheter length decide how much of a cannula ends up inside the vein.
+- [The magnet](https://gundoc9.github.io/the-magnet/): MRI safety physics for the anaesthetist in ten cards, the field drawn as iron filings and computed from the magnet.
+- [How the AI you use works](https://gundoc9.github.io/how-the-ai-works/): a dictionary of the terms behind the AI tools clinicians already use, one card per term.
+- [Before you sign](https://gundoc9.github.io/before-you-sign/): a three-minute exercise in checking an AI scribe's note from a pre-anaesthesia consultation before signing it.
+- [The disagreement checker, blood pressure targets](https://gundoc9.github.io/bp-targets/): ten questions on blood pressure targets in neonates and children under anaesthesia, each put to six AI models three times, with every answer drawn on one scale.
+- [The disagreement checker, GLP-1 agonists and SGLT2 inhibitors](https://gundoc9.github.io/glp1-sglt2/): the same method on what to do about GLP-1 agonists and SGLT2 inhibitors before surgery.
+- [Guideline tracker](https://gundoc9.github.io/guideline-tracker/): what has changed in anaesthesia guidelines over the last two years, with links to the full text.
+
+## Elsewhere
+
+- [Newsletter on Substack](https://substack.com/@ganeshsivasankara)
+- [LinkedIn](https://www.linkedin.com/in/ganeshsivasankara)
+- [X](https://x.com/gianthealer)
+- [GitHub](https://github.com/gundoc9)
