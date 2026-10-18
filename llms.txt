@@ -21,6 +21,7 @@ I have worked as an anaesthetist in the UK and Saudi Arabia for more than twenty
 - [The magnet](https://gundoc9.github.io/the-magnet/): MRI safety physics for the anaesthetist in ten cards, the field drawn as iron filings and computed from the magnet.
 - [How the AI you use works](https://gundoc9.github.io/how-the-ai-works/): a dictionary of the terms behind the AI tools clinicians already use, one card per term.
 - [Before you sign](https://gundoc9.github.io/before-you-sign/): a three-minute exercise in checking an AI scribe's note from a pre-anaesthesia consultation before signing it.
+- [Spoken Saudi Arabic for anaesthetists](https://gundoc9.github.io/spoken-saudi-arabic/): 102 phrases from the anaesthetic room to recovery, each spoken by a Saudi voice, with listen-and-repeat, a listening quiz and what patients say back.
 - [The disagreement checker, blood pressure targets](https://gundoc9.github.io/bp-targets/): ten questions on blood pressure targets in neonates and children under anaesthesia, each put to six AI models three times, with every answer drawn on one scale.
 - [The disagreement checker, GLP-1 agonists and SGLT2 inhibitors](https://gundoc9.github.io/glp1-sglt2/): the same method on what to do about GLP-1 agonists and SGLT2 inhibitors before surgery.
 - [Guideline tracker](https://gundoc9.github.io/guideline-tracker/): what has changed in anaesthesia guidelines over the last two years, with links to the full text.
