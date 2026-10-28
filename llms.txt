@@ -20,7 +20,7 @@ I have worked as an anaesthetist in the UK and Saudi Arabia for more than twenty
 - [Reading the clot](https://ganeshsivasankara.com/reading-the-clot/): the TEG and ROTEM trace for anaesthetists, the normal trace beside each defect with what to give for it, plus drills and a plot of your own numbers.
 - [Cannulation geometry](https://ganeshsivasankara.com/cannulation-geometry/): how insertion angle and catheter length decide how much of a cannula ends up inside the vein.
 - [The magnet](https://ganeshsivasankara.com/the-magnet/): MRI safety physics for the anaesthetist in ten cards, the field drawn as iron filings and computed from the magnet.
-- [How the AI you use works](https://ganeshsivasankara.com/how-the-ai-works/): a dictionary of the terms behind the AI tools clinicians already use, one card per term.
+- [How the AI you use works](https://ganeshsivasankara.com/how-the-ai-works/): a dictionary of the terms behind the AI tools clinicians already use, one card per term, each with what it means in practice and a prompt to try in your own chatbot.
 - [Before you sign](https://ganeshsivasankara.com/before-you-sign/): a three-minute exercise in checking an AI scribe's note from a pre-anaesthesia consultation before signing it.
 - [Spoken Saudi Arabic for anaesthetists](https://ganeshsivasankara.com/spoken-saudi-arabic/): 102 phrases from the anaesthetic room to recovery, each spoken by a Saudi voice, with listen-and-repeat, a listening quiz and what patients say back.
 - [The disagreement checker, blood pressure targets](https://ganeshsivasankara.com/bp-targets/): twelve questions on blood pressure targets in neonates and children under anaesthesia, each put to six AI models three times, with every answer drawn on one scale.
