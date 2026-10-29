@@ -28,6 +28,10 @@ I have worked as an anaesthetist in the UK and Saudi Arabia for more than twenty
 - [Guideline tracker](https://ganeshsivasankara.com/guideline-tracker/): what has changed in anaesthesia guidelines over the last two years, with links to the full text.
 - [Anaesthesia Meetings Almanac](https://ganeshsivasankara.com/anaesthesia-meetings/): anaesthesia congresses, courses and patient safety forums worldwide from November 2026 to October 2027, with days of the week, abstract and registration deadlines, trainee rates, flights and leave days from your home airport, hotels and restaurants, one-tap calendar entries and reminders, offline once opened, re-checked monthly.
 
+## Lists
+
+- [Built Between Cases](https://ganeshsivasankara.com/built-between-cases/): tools for anaesthesia and intensive care that clinicians have built, most of them with AI, listed by area, by maker and by date, each opened and checked, with its maker and the AI they used where that is known.
+
 ## Elsewhere
 
 - [Newsletter on Substack](https://ganeshsivasankara.substack.com/)
